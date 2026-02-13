@@ -77,9 +77,9 @@ const BACKGROUND_FADE_START = Math.max(
 );
 
 const TYPED_LINES = [
-  "> Maeline",
+  "> ٩(◕‿◕)۶",
   "...",
-  "> Il y a quelques jours c'était ton anniversaire",
+  "> Aujourd'hui c'est la Saint Valentin",
   "...",
   "> Donc je t'ai fais un petit cadeau",
   "...",
@@ -577,3 +577,4 @@ export default function App() {
     </div>
   );
 }
+
